@@ -1,0 +1,22 @@
+{
+  "name": "garlicbread-server",
+  "version": "1.0.0",
+  "description": "links and links and links",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreverr/garlicbread.git"
+  },
+  "keywords": [
+    "links"
+  ],
+  "author": "shreverr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreverr/garlicbread/issues"
+  },
+  "homepage": "https://github.com/shreverr/garlicbread#readme"
+}
